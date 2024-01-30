@@ -33,18 +33,3 @@ The application will be compiled, and a new browser window/tab will open automat
 
 5. Explore the Application
 Explore the course listing page, view course details, and simulate course enrollment in the student dashboard. Enjoy using the React Course Enrollment Application!
-
-Features
-Dashboard
-Listed enrolled courses
-Mark courses as complete
-Course Listing Page
-Search for Courses by Instructor and Course name
-Like courses
-Dislike courses
-Go to course details
-Course Details Page
-All details regarding the course
-Profile Page
-Loaders
-Responsive
