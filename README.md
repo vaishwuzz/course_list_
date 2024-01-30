@@ -8,18 +8,21 @@ Open your terminal and run the following command to clone the repository:
 bash
 Copy code
 git clone https://github.com/shubhamsingh5/react-course-enrollment.git
+
 2. Navigate to the Project Directory
 Move to the project directory using the following command:
 
 bash
 Copy code
 cd react-course-enrollment
+
 3. Install Dependencies
 Install the required dependencies by running the following command:
 
 bash
 Copy code
 npm install
+
 4. Start the Development Server
 Start the development server with the following command:
 
